@@ -1,0 +1,17 @@
+C:\New folder\Day11\ConAppDailyExercise02\UnitTestDailyExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\New folder\Day11\ConAppDailyExercise02\UnitTestDailyExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\New folder\Day11\ConAppDailyExercise02\UnitTestDailyExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\New folder\Day11\ConAppDailyExercise02\UnitTestDailyExercise\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\New folder\Day11\ConAppDailyExercise02\UnitTestDailyExercise\bin\Debug\UnitTestDailyExercise.dll
+C:\New folder\Day11\ConAppDailyExercise02\UnitTestDailyExercise\bin\Debug\UnitTestDailyExercise.pdb
+C:\New folder\Day11\ConAppDailyExercise02\UnitTestDailyExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\New folder\Day11\ConAppDailyExercise02\UnitTestDailyExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\New folder\Day11\ConAppDailyExercise02\UnitTestDailyExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\New folder\Day11\ConAppDailyExercise02\UnitTestDailyExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\New folder\Day11\ConAppDailyExercise02\UnitTestDailyExercise\obj\Debug\UnitTestDailyExercise.csproj.AssemblyReference.cache
+C:\New folder\Day11\ConAppDailyExercise02\UnitTestDailyExercise\obj\Debug\UnitTestDailyExercise.csproj.CoreCompileInputs.cache
+C:\New folder\Day11\ConAppDailyExercise02\UnitTestDailyExercise\obj\Debug\UnitTestDailyExercise.csproj.CopyComplete
+C:\New folder\Day11\ConAppDailyExercise02\UnitTestDailyExercise\obj\Debug\UnitTestDailyExercise.dll
+C:\New folder\Day11\ConAppDailyExercise02\UnitTestDailyExercise\obj\Debug\UnitTestDailyExercise.pdb
+C:\New folder\Day11\ConAppDailyExercise02\UnitTestDailyExercise\bin\Debug\ClassLibraryCustomer.dll
+C:\New folder\Day11\ConAppDailyExercise02\UnitTestDailyExercise\bin\Debug\ClassLibraryCustomer.pdb

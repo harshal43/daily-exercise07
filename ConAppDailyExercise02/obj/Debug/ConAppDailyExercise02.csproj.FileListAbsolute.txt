@@ -1,0 +1,11 @@
+C:\New folder\Day11\ConAppDailyExercise02\ConAppDailyExercise02\bin\Debug\ConAppDailyExercise02.exe.config
+C:\New folder\Day11\ConAppDailyExercise02\ConAppDailyExercise02\bin\Debug\ConAppDailyExercise02.exe
+C:\New folder\Day11\ConAppDailyExercise02\ConAppDailyExercise02\bin\Debug\ConAppDailyExercise02.pdb
+C:\New folder\Day11\ConAppDailyExercise02\ConAppDailyExercise02\obj\Debug\ConAppDailyExercise02.csproj.AssemblyReference.cache
+C:\New folder\Day11\ConAppDailyExercise02\ConAppDailyExercise02\obj\Debug\ConAppDailyExercise02.csproj.SuggestedBindingRedirects.cache
+C:\New folder\Day11\ConAppDailyExercise02\ConAppDailyExercise02\obj\Debug\ConAppDailyExercise02.csproj.CoreCompileInputs.cache
+C:\New folder\Day11\ConAppDailyExercise02\ConAppDailyExercise02\obj\Debug\ConAppDailyExercise02.exe
+C:\New folder\Day11\ConAppDailyExercise02\ConAppDailyExercise02\obj\Debug\ConAppDailyExercise02.pdb
+C:\New folder\Day11\ConAppDailyExercise02\ConAppDailyExercise02\bin\Debug\ClassLibraryCustomer.dll
+C:\New folder\Day11\ConAppDailyExercise02\ConAppDailyExercise02\bin\Debug\ClassLibraryCustomer.pdb
+C:\New folder\Day11\ConAppDailyExercise02\ConAppDailyExercise02\obj\Debug\ConAppDailyExercise02.csproj.CopyComplete

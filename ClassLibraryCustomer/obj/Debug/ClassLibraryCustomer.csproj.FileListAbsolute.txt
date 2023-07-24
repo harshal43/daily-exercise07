@@ -1,0 +1,6 @@
+C:\New folder\Day11\ConAppDailyExercise02\ClassLibraryCustomer\bin\Debug\ClassLibraryCustomer.dll
+C:\New folder\Day11\ConAppDailyExercise02\ClassLibraryCustomer\bin\Debug\ClassLibraryCustomer.pdb
+C:\New folder\Day11\ConAppDailyExercise02\ClassLibraryCustomer\obj\Debug\ClassLibraryCustomer.csproj.AssemblyReference.cache
+C:\New folder\Day11\ConAppDailyExercise02\ClassLibraryCustomer\obj\Debug\ClassLibraryCustomer.csproj.CoreCompileInputs.cache
+C:\New folder\Day11\ConAppDailyExercise02\ClassLibraryCustomer\obj\Debug\ClassLibraryCustomer.dll
+C:\New folder\Day11\ConAppDailyExercise02\ClassLibraryCustomer\obj\Debug\ClassLibraryCustomer.pdb
